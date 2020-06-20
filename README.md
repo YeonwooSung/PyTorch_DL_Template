@@ -24,7 +24,8 @@ I clarify that the contents in this repository are originally written by [France
 
 Clone the repo and go inside it. Then, run:
 
-```pip install -r requirements.txt
+```
+$ pip3 install -r requirements.txt
 ```
 
 ## Motivation
